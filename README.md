@@ -1,16 +1,25 @@
-### Hi there 👋
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://assets.stickpng.com/thumbs/580b57fbd9996e24bc43be10.png">
+ <source media="(prefers-color-scheme: light)" srcset="https://t4.ftcdn.net/jpg/03/86/07/83/360_F_386078374_WDOvxzHmUCsg0h3AufqbhtuWkBKz8XpU.jpg">
+ <img alt="We code in the future" src="https://t4.ftcdn.net/jpg/03/86/07/83/360_F_386078374_WDOvxzHmUCsg0h3AufqbhtuWkBKz8XpU.jpg">
+</picture>
 
-<!--
-**ogueke/ogueke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# About me
 
-Here are some ideas to get you started:
+Hi, I'm Fortune, a lover of everything tech.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a web and mobile app developer, UI/UX designer, Data scientist, Researcher, Academia 
+
+<details>
+  
+<summary>Ranking of things I have interest in:</summary>
+  
+
+| Rank | Things-I-have-interest-in |
+|-----:|---------------|
+|     1| Artificial Intelligence |
+|     2| Robotics |
+|     3| Programming |
+|     4| Graphic design |
+</details>
+
