@@ -12,10 +12,10 @@ I am a web and mobile app developer, UI/UX designer, Data scientist, Researcher,
 
 <details>
   
-<summary>Ranking of things I have interest in:</summary>
+ <summary><h3>Ranking of interest area</h3></summary>
   
 
-| Rank | Things-I-have-interest-in |
+| Rank | Area-of-interest |
 |-----:|---------------|
 |     1| Artificial Intelligence |
 |     2| Robotics |
